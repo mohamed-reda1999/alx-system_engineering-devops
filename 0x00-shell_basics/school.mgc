@@ -1,2 +1,2 @@
-0 string SCHOOL school date
-!:mime school
+\n0 string SCHOOL School data\n! :mime School
+file -c -m school.mgc
