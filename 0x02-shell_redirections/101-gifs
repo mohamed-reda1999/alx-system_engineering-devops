@@ -1,0 +1,2 @@
+#!/bin/bash
+find -type name "git" -printf "\n" rev | cut -d - 2- crev 10 ALL-C sort -f
